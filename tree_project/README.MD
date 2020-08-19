@@ -3,7 +3,7 @@
 ***
 # Common Description
 - The solutions provided ``.html``, ``.pdf`` and ``.ipynb`` (Jupyter Notebook) formats.
-- If you do not have Jupyter Notebook application, you can either read it via GitHub or download and read in HTML format. In terms of viewing clearly, I recommend the HTML format.
+- If you do not have Jupyter Notebook application, you can either read it via GitHub or download and read in HTML format. In terms of viewing clearly, I **strongly** recommend the **HTML** format.
 ***
 # Files' Description
 - First file (``01_ForestProject-EDA-1``) contains;
