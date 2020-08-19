@@ -4,7 +4,7 @@
 # Common Description
 - The solutions provided ``.html``, ``.pdf`` and ``.ipynb`` (Jupyter Notebook) formats.
 - If you do not have Jupyter Notebook application, you can either read it via GitHub or download and read in HTML format. In terms of viewing clearly, I **strongly** recommend the **HTML** format.
-- There is also a zip file contains three datasets that I used.
+- There is also a zip file contains three datasets that I used. Because the size of the zip file is big, it's provided **via mail**.
 ***
 # Files' Description
 - First file (``01_ForestProject-EDA-1``) contains;
